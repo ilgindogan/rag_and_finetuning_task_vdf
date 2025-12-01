@@ -50,5 +50,5 @@ Finally, the prompt is designed to restrict the model to give answers in 1-3 wor
 
 ## Final Report
 
-[`rag/RAG-report.pdf`](./rag/RAG-report.pdf)
+[`RAG-report.pdf`](./RAG-report.pdf)
 
