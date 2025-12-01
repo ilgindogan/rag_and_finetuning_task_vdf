@@ -50,6 +50,6 @@ Here is the instructions.
 
 ## Final Report
 
-[`Finetuning-report.pdf`](./Finetuning-report.pdf)
+[`Finetuning-report.pdf`](Finetuning-report.pdf)
 
 
